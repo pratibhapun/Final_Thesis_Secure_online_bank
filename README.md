@@ -10,8 +10,8 @@ View live demo of project 👇
 
 ## Steps to run Project 
 
-1. Copy SkyBank Project Folder And Paste in htdocs folder (htdocs found in xampp Setup)  
-2. Open SkyBank Folder With VScode or other editor   
+1. Copy NepalBank Project Folder And Paste in htdocs folder (htdocs found in xampp Setup)  
+2. Open NepalBank Folder With VScode or other editor   
 3. Create app password in google (follow the video tutorial -> how to make app password [video link -> https://youtu.be/J4CtP1MBtOE] )  
 4. Now Edit Some Files given Below ():  
 
